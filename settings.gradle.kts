@@ -1,0 +1,2 @@
+rootProject.name = "aw-remap"
+
